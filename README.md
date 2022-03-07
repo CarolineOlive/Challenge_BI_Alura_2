@@ -22,6 +22,7 @@ Repositório destinado a compartilhar os projetos propostos no Challenge de BI d
   
  <!--Título da semana 2 -->
  <h2><a id="week02"</a>Semana 2: Desafio mercado de restaurantes - Alura Food</h2>
+ <p>A Alura Food tem interesse em expandir seu negócio entrando no mercado indiano. Para isso, ela precisa da criação de métricas e análise dos dados disponibilizados para tomar a melhor decisão.</p>
  
   <h3><strong>Dados</strong></h3>
     
