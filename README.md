@@ -18,7 +18,7 @@ Repositório destinado a compartilhar os projetos propostos no Challenge de BI d
   <h3><strong>Tratamento dos dados</strong></h3>
   
   <h3><strong>Dashboard</strong></h3>
-  
+  <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjkzNzk1NjktMWU3ZC00ZmFhLTlhYjQtYmIxYWI2ZTU1NDUxIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection847043c918bf1680df0d">Dashboard Alura Films</a></strong></p>
   
  <!--Título da semana 2 -->
  <h2><a id="week02"</a>Semana 2: Desafio mercado de restaurantes - Alura Food</h2>
