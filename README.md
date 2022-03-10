@@ -29,7 +29,7 @@ Repositório destinado a compartilhar os projetos propostos no Challenge de BI d
   <h3><strong>Tratamento dos dados</strong></h3>
   
   <h3><strong>Dashboard</strong></h3>
- 
+ <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiNzE2YWIyNmUtOTQ1Ny00YmNiLThiNTEtNDFjYzNmMDM4ZWU2IiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9">Dashboard Alura Food</a></strong></p>
  
   <!--Título da semana 3 e 4 -->
  <h2><a id="week03"</a>Semanas 3 e 4: Desafio métricas de vendas - Alura Skimo</h2>
