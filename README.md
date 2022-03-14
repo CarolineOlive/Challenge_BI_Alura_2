@@ -33,6 +33,7 @@ Repositório destinado a compartilhar os projetos propostos no Challenge de BI d
  
   <!--Título da semana 3 e 4 -->
  <h2><a id="week03"</a>Semanas 3 e 4: Desafio métricas de vendas - Alura Skimo</h2>
+  <p>A Alura Skimo **necessita acompanhar suas vendas através de um painel que comporte todas métricas necessárias.</p>
  
   <h3><strong>Dados</strong></h3>
     
