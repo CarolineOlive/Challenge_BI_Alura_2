@@ -41,3 +41,5 @@ Repositório destinado a compartilhar os projetos propostos no Challenge de BI d
   <h3><strong>Tratamento dos dados</strong></h3>
   
   <h3><strong>Dashboard</strong></h3>
+  <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiM2YzZTQwYzItMjdjYS00ZjkwLTlhYWMtMjY4YmU3ZDEyODQ2IiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9">Dashboard Alura Skimo</a></strong></p>
+
