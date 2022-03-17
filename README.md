@@ -13,7 +13,7 @@ Repositório destinado a compartilhar os projetos propostos no Challenge de BI d
  <h2><a id="week01"</a>Semana 1: Desafio mercado cinematográfico - Alura Films</h2>
   <p>A empresa Alura Films necessitava fazer uma pesquisa de mercado, com a finalidade de identificar a seleção ideal de elenco e produção.</p>
   <img src="https://user-images.githubusercontent.com/73675930/158726637-255891f1-b4f8-4d06-8470-296e8d4f3808.png"/>
-  <p><a href= >BI Alura Films Completo</a></strong></p>
+  <p><a href="https://github.com/CarolineOlive/Challenge_BI_Alura_2/blob/main/Semana%202/Alura_food.pdf">BI Alura Films Completo</a></strong></p>
 
   <h3><strong>Dados</strong></h3>
     <p>Foram disponibilizados dois conjuntos de dados.</p>
