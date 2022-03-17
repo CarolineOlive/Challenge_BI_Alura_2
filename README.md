@@ -11,18 +11,58 @@ Repositório destinado a compartilhar os projetos propostos no Challenge de BI d
   
  <!--Título da semana 1 -->
  <h2><a id="week01"</a>Semana 1: Desafio mercado cinematográfico - Alura Films</h2>
-  <p>A **Alura Films** contratou você para fazer uma pesquisa de mercado, com a finalidade de identificar a **seleção ideal** de elenco e produção.</p>
+  <p>A empresa Alura Films necessitava fazer uma pesquisa de mercado, com a finalidade de identificar a seleção ideal de elenco e produção.</p>
+  <img src="https://user-images.githubusercontent.com/73675930/158726637-255891f1-b4f8-4d06-8470-296e8d4f3808.png"/>
+  <p><a href= >BI Alura Films Completo</a></strong></p>
+
   <h3><strong>Dados</strong></h3>
-    <p>Foi disponibilizado uma base de dados do IMDB com 1000 filmes.</p>
+    <p>Foram disponibilizados dois conjuntos de dados.</p>
+    <ul>
+      <li> 1. Base de dados contendo informações sobre 1000 filmes, tais como, nome, ano de lançamento, diretor, atores, gênero, faturamento, número de votos recebidos, pontuação, classificação, tempo de execução e resumo
+      <li> 2. Arquivo com informações sobre código e URL das imagens de cada filme.
+    </ul>
     
   <h3><strong>Tratamento dos dados</strong></h3>
-  
+    <p>Base de dados original:</p>
+    <ul>
+      <li> dados da coluna 'gênero' divididos por delimitador resultando em 3 novas colunas com informações de gênero
+      <li> linhas vazias filtradas
+      <li> obtenção de nova coluna de data a partir do ano de lançamento
+      <p>A base tratada foi utilizada para obter 3 <u>novas tabelas: atores, gênero e cachê médio por gênero</u></p>
+    </ul>
+      <p>Tabela gênero e cachê médio por gênero<p>
+      <ul>
+        <li>Agrupamento dos dados de gênero e média do valor de cache.
+      </ul>
+      <p>Tabela Atores</p>
+      <ul>
+        <li>colunas "Data", "Classificação", "Tempo filme", "Gênero.1", "Gênero.2", "Gênero.3", "Overview", "Pontuação do filme", "Director" removidas;
+        <li>colunas referentes ao atores ("Star1", "Star2", "Star3", "Star4") transformadas em linha, resultando em duas novas colunas, "Atributo" - indica o "grau" do ator, "Ator" - contendo o nome dos atores.
+      </ul>
+      <p>Tabela Gênero:</P>
+      <ul>
+        <li> colunas "Ano lançamento", "Classificação", "Tempo filme", "Director", "Star1", "Star2", "Star3", "Star4", "Número de votos", "Data", "Overview" removidas.
+      </ul>
+   
+   <h3><strong>Medidas</strong></h3>
+    <ul>
+  <li>Tabela calendário</li>
+      <img src="https://user-images.githubusercontent.com/73675930/158724068-c4d8c86d-55a2-44ab-baa9-f66effb06dd3.png"/>
+  <li>Tabela medidas</li>
+    <img src="https://user-images.githubusercontent.com/73675930/158726296-2d354455-fc5a-433e-a346-eac7a6202ee1.png"/>
+    <p>medidas criadas usando função de filtro.</p>
+      <img src="https://user-images.githubusercontent.com/73675930/158726131-8859a72e-c3f4-478a-a7f3-a2e0975a4566.png"/>
+    <p>Elas compõe a maior parte das informações na primeira página.</p>
+  </ul>
+
   <h3><strong>Dashboard</strong></h3>
   <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjkzNzk1NjktMWU3ZC00ZmFhLTlhYjQtYmIxYWI2ZTU1NDUxIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection847043c918bf1680df0d">Dashboard Alura Films</a></strong></p>
   
  <!--Título da semana 2 -->
  <h2><a id="week02"</a>Semana 2: Desafio mercado de restaurantes - Alura Food</h2>
  <p>A Alura Food tem interesse em expandir seu negócio entrando no mercado indiano. Para isso, ela precisa da criação de métricas e análise dos dados disponibilizados para tomar a melhor decisão.</p>
+ <img src="https://user-images.githubusercontent.com/73675930/158727403-3134a691-44d8-4def-b397-c714479bc500.png"/>
+  <p><a href= >BI Alura Food Completo</a></strong></p>
  
   <h3><strong>Dados</strong></h3>
     
@@ -31,10 +71,11 @@ Repositório destinado a compartilhar os projetos propostos no Challenge de BI d
   <h3><strong>Dashboard</strong></h3>
  <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiNzE2YWIyNmUtOTQ1Ny00YmNiLThiNTEtNDFjYzNmMDM4ZWU2IiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9">Dashboard Alura Food</a></strong></p>
  
-  <!--Título da semana 3 e 4 -->
+  <!--Título da semana 3 e 4-->
  <h2><a id="week03"</a>Semanas 3 e 4: Desafio métricas de vendas - Alura Skimo</h2>
-  <p>A Alura Skimo **necessita acompanhar suas vendas através de um painel que comporte todas métricas necessárias.</p>
- 
+  <p>A empresa Alura Skimo necessita acompanhar suas vendas através de um painel que comporte todas métricas necessárias.</p>
+  <img src="https://user-images.githubusercontent.com/73675930/158727768-b4a6047e-9d2a-46f6-a69a-37122924b259.png"/>
+  <p><a href= >BI Alura Skimo Completo</a></strong></p>
   <h3><strong>Dados</strong></h3>
     
     
