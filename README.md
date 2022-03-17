@@ -53,8 +53,26 @@ Repositório destinado a compartilhar os projetos propostos no Challenge de BI d
     <p>medidas criadas usando função de filtro.</p>
       <img src="https://user-images.githubusercontent.com/73675930/158726131-8859a72e-c3f4-478a-a7f3-a2e0975a4566.png"/>
     <p>Elas compõe a maior parte das informações na primeira página.</p>
+    <p>📊 Ranking dos filmes por número de votos</p>
+    <img src="https://user-images.githubusercontent.com/73675930/158901042-1d0971a9-6e27-4ea3-9898-62f67570ce0e.png"/>
+   </ul>
+  
+  <h3><strong>Resultados</strong></h3>
+  <ul>
+    <p><strong>Filtro</strong></p>
+    <img src="https://user-images.githubusercontent.com/73675930/158902103-f1e3c1c2-79dd-44b8-a7bf-ddb7b47639f8.png"/>
+    <p>Ícone para ativação de filtros por gênero, Diretor e Ano de lançamento.</p>
+    <li> Filmes mais votados e informações sobre ano, gênero, ator principal, nota
+    <li> Descrição do filme e capa
+    <li> Quantidade de filmes por gênero
+    <li> 10 gênero com maior cache
+    <li> Notas por gênero
+    <li> 5 atores que mais fizeram filmes
+    <li> Cache médio dos filmes por ator
+    <li> Atores que fizeram filmes com maior cachê
+    <li> Ranking dos filmes mais votados
   </ul>
-
+  
   <h3><strong>Dashboard</strong></h3>
   <p><strong><a href="https://app.powerbi.com/view?r=eyJrIjoiZjkzNzk1NjktMWU3ZC00ZmFhLTlhYjQtYmIxYWI2ZTU1NDUxIiwidCI6ImMzZjM2NDZlLWRmY2ItNDlhNS04ZGUxLTc1ODA1Mjg4NTc1YyJ9&pageName=ReportSection847043c918bf1680df0d">Dashboard Alura Films</a></strong></p>
   
